@@ -1,4 +1,4 @@
-
+new lines to show merging conflict
 #Exercise #1
 
 #1. Clone the repository 'gitKraken_ex' in GitKraken. 
