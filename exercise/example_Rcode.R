@@ -1,6 +1,6 @@
 new lines to show merging conflict
-#Exercise #1 abc
-
+#Exercise #123c bca
+adddingnew things 
 #1. Clone the repository 'gitKraken_ex' in GitKraken. 
 #2. Find the folder on your local computer, and add a couple of small text files 
 #to it from your computer.
